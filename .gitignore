@@ -1,0 +1,12 @@
+processed_ipv4/
+processed_ipv6/
+
+*.txt
+*.pdf
+*.o
+*.so
+*.py[cod]
+__pycache__/
+*$py.class
+*.exe
+*.out
